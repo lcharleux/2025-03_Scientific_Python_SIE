@@ -1,9 +1,9 @@
 # SCIENTIFIC PYTHON TUTORIAL
 
 The tutorial will take place over 3 half-days in room 221 at the SYMME Lab. at the *Maison de la Mécatronique* ( [7 Chem. de Bellevue, 74940 Annecy](https://maps.app.goo.gl/pW6QkaZcSLW72Jx4A)):
-* March 25, 2025 from 08:30 am to 00:30 pm.
-* March 31, 2025 from 08:30 am to 00:30 pm.
-* April 07, 2025 again from 08:30 am to 00:30 pm.
+1. March 25, 2025 from 08:30 am to 00:30 pm.
+2. March 31, 2025 from 08:30 am to 00:30 pm.
+3. April 07, 2025 again from 08:30 am to 00:30 pm.
 
 ## OUTLINE
 
@@ -20,9 +20,9 @@ Python is a very versatile and easy to learn open source language. It has a very
 
 The module is scheduled over 3 half-days (3x4h):
 
-* Day 1: . Working with Python: working environments (Visual Studio Code, Jupyter). Basic programming in Python. Scientific and graphical libraries: Numpy, Scipy, Pandas, Matplotlib, Numba. Various examples.
-* Day 2:  Creation of a collaborative and documented library: Creation of a documented library with Sphinx in collaborative mode with Git and GitLab/GitHub. Work organization, unit tests, publication of the documentation. Work on specific scientific topics like advanced graphics for publications with Matplotlib (complex graphics, Latex couplings), image processing, optimization, solving differential equations, machine/deep learning (Scikit Learn, PyTorch), code optimization with Numpy/Numba/JAX...
-* Day 3: Personal project: each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized and returned to the form of a library or a GIT repository.
+* **Day 1**: . Working with Python: working environments (Visual Studio Code, Jupyter). Basic programming in Python. Scientific and graphical libraries: Numpy, Scipy, Pandas, Matplotlib, Numba. Various examples.
+* **Day 2**:  Creation of a collaborative and documented library: Creation of a documented library with Sphinx in collaborative mode with Git and GitLab/GitHub. Work organization, unit tests, publication of the documentation. Work on specific scientific topics like advanced graphics for publications with Matplotlib (complex graphics, Latex couplings), image processing, optimization, solving differential equations, machine/deep learning (Scikit Learn, PyTorch), code optimization with Numpy/Numba/JAX...
+* **Day 3**: Personal project: each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized and returned to the form of a library or a GIT repository.
 
 
 ## PEDAGOGICAL APPROACH
