@@ -18,13 +18,13 @@ Python is a very versatile and easy to learn open source language. It has a very
 ## ORGANIZATION
 
 > [!IMPORTANT]
-**Before the first session** 
+**Before day 1* 
 >    - Install Miniconda, GIT and Vscode according to our instructions on the [Positron website](https://symmehub.github.io/positron/setup/setup.html#installing-python).
 >    - Create a GIThub account.
 
 The module is scheduled over 3 half-days (3x4h):
 
-* **Day 1**: . Working with Python: working environments (Visual Studio Code, Jupyter). Basic programming in Python. Scientific and graphical libraries: Numpy, Scipy, Pandas, Matplotlib, Numba. Various examples.
+* **Day 1**: Working with Python: working environments (Visual Studio Code, Jupyter). Basic programming in Python. Scientific and graphical libraries: Numpy, Scipy, Pandas, Matplotlib, Numba. Various examples.
 * **Day 2**:  Creation of a collaborative and documented library: Creation of a documented library with Sphinx in collaborative mode with Git and GitLab/GitHub. Work organization, unit tests, publication of the documentation. Work on specific scientific topics like advanced graphics for publications with Matplotlib (complex graphics, Latex couplings), image processing, optimization, solving differential equations, machine/deep learning (Scikit Learn, PyTorch), code optimization with Numpy/Numba/JAX...
 * **Day 3**: Personal project: each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized and returned to the form of a library or a GIT repository.
 
@@ -108,4 +108,3 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 - [ ] Big data.
 - [ ] Data processing.
 - [ ] Basics.
-- [ ] 
