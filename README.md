@@ -13,6 +13,11 @@ Python is a very versatile and easy to learn open source language. It has a very
 
 ## ORGANIZATION
 
+> [!IMPORTANT]
+**Before the first session** 
+>    - Install Miniconda, GIT and Vscode according to our instructions on the [Positron website](https://symmehub.github.io/positron/setup/setup.html#installing-python).
+>    - Create a GIThub account.
+
 The module is scheduled over 3 half-days (3x4h):
 
 * Day 1: . Working with Python: working environments (Visual Studio Code, Jupyter). Basic programming in Python. Scientific and graphical libraries: Numpy, Scipy, Pandas, Matplotlib, Numba. Various examples.
@@ -23,19 +28,6 @@ The module is scheduled over 3 half-days (3x4h):
 ## PEDAGOGICAL APPROACH
 
 The proposed pedagogical approach is based on examples, individually and collectively according to the participants' research themes. Through these examples, basic skills associated with scientific programming as well as tools more specific to certain themes are addressed.
-
-## REQUIREMENTS
-
-The prerequisites of the module are minimal:
-
-- Come with a laptop with an internet connection.
-- A GITHub account.
-
-### SOFTWARE INSTALL:
-
-Follow the instructuctions on our teaching website [Positron](https://symmehub.github.io/positron/setup/setup.html#installing-python)
-
-
 
 ## SKILLS
 
