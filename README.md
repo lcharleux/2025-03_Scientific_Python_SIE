@@ -1,9 +1,8 @@
 # SCIENTIFIC PYTHON TUTORIAL
 
 The tutorial will take place over 3 half-days in room 221 at the SYMME Lab. at the *Maison de la Mécatronique* ( [7 Chem. de Bellevue, 74940 Annecy](https://maps.app.goo.gl/pW6QkaZcSLW72Jx4A)).
-The entrance is here:
+The entrance is [here](https://maps.app.goo.gl/EEueANgVYtjtN8Ee7).
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1742568949910!6m8!1m7!1sWgVljZ6OWWhHkwNPcjrDbQ!2m2!1d45.91950423386256!2d6.159031063897206!3f334.1610093943026!4f1.0302097135540151!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 The dates are:
 1. March 25, 2025 from 08:30 am to 00:30 pm.
