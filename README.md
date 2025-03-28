@@ -6,7 +6,9 @@ The entrance is [here](https://maps.app.goo.gl/EEueANgVYtjtN8Ee7).
 
 The dates are:
 1. March 25, 2025 from 08:30 am to 00:30 pm.
-2. March 31, 2025 from 08:30 am to 00:30 pm.
+2. March 31, 2025 from 08:30 am to 00:30 pm. 
+> [!IMPORTANT]
+>    This sessions is also available online using Teams using this [meeting link](https://teams.microsoft.com/l/message/19:tanOEPbxV2J3zG3wAbkuEF9KsRpfMbswFFAYZsZmur41@thread.tacv2/1743149452095?tenantId=e21e9783-d0a0-48f8-850e-0b081b46d788&groupId=18d9ea4b-3f7e-4168-baee-dd3f6eb3bafc&parentMessageId=1743149452095&teamName=Scientific%20Python%20SIE%202025&channelName=General&createdTime=1743149452095).
 3. April 07, 2025 again from 08:30 am to 00:30 pm.
 
 ## OUTLINE
