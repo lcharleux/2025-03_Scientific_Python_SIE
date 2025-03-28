@@ -80,8 +80,8 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Modules and classes:
 
-> [!NOTE]  
-> Create a class to load a CSV file, apply a fit and extract fit parameters. 
+> [!TIP]  
+> Toy example: create a class to load a CSV file, apply a fit and extract fit parameters. 
 > Playground repo available here: https://github.com/lcharleux/2025_Python_SIE_playground
 
 
