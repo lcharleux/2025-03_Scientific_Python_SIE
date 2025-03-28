@@ -52,12 +52,12 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Introduction
 
-- [ ] Round table
-- [ ] Software verification
-- [ ] First example: simple 2D plot (`numpy`, `matplotlib`)
+- [x] Round table
+- [x] Software verification
+- [x] First example: simple 2D plot (`numpy`, `matplotlib`)
 - [ ] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
-- [ ] Classical IDE (VScode)
-- [ ] Notebook interface (Jupyter) 
+- [x] Classical IDE (VScode)
+- [x] Notebook interface (Jupyter) 
 - [ ] Quick tour of scientific ecosystem: `numpy`, `scipy`, `pandas`, `matplotlib`
 - [ ] Faster code with `numba`
 - [ ] Functions and classes: why and how ?. Examples: `Vector` class, or `csv` dataset numerical integration
@@ -93,18 +93,3 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 ### DAY 3: Personal projects
 
 - [ ] Apply new skills to your own project
-
-
-
-#### Needs (round table):
-
-- [ ] Applied math.
-- [ ] Efficient coding.
-- [ ] Image processing.
-- [ ] From matlab to python.
-- [ ] Improving existing code.
-- [ ] Versioning.
-- [ ] From R to python.
-- [ ] Big data.
-- [ ] Data processing.
-- [ ] Basics.
